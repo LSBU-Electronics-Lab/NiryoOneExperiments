@@ -30,6 +30,8 @@ vii)	An input should be read from the keyboard to select the new position on top
 viii)	The program should keep track of the number of blocks stack at each position
 ix)	The program should be able to stack 3 blocks at any position A, B or C
 
-###LAB5 Demo
+###LAB5 Demo Video
 
-[LAB5Demo](https://github.com/LSBU-Electronics-Lab/NiryoOneExperiments/blob/main/LAB5%20demo4.mp4)
+Download the video
+
+[LAB 5 Demo](https://github.com/LSBU-Electronics-Lab/NiryoOneExperiments/blob/main/LAB5%20demo4.mp4)
