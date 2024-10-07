@@ -1,4 +1,4 @@
-###Final Task
+### Final Task
 
 (a)	Place a block in pre pick up position for block A about 5mm above the block. This allow a perpendicular path for the gripper when going down to the block as shown in the image below. Record the x,y,z,r,y,p coordinates in a spreadsheet, The gripper position should be as in this picture with the servo motor facing left.
 
@@ -19,7 +19,7 @@
 (i)	The robot should remain ready at the Initial position which is perpendicularly above positions A,B,C at a distance which does not interfere with the blocks as shown in the image below. This starting position should also be recorded in your table with the LAB 4 program so it can be implemented at the start of the block stacking program.
 
 
-###Initial position
+### Initial position
  
 ii)	One block should rest in each position A, B , C on start
 iii)	An input should be read, and the robot arm should be positioned in pre pickup position
@@ -30,7 +30,7 @@ vii)	An input should be read from the keyboard to select the new position on top
 viii)	The program should keep track of the number of blocks stack at each position
 ix)	The program should be able to stack 3 blocks at any position A, B or C
 
-###LAB5 Demo Video
+### LAB5 Demo Video
 
 Download the video
 
